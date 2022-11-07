@@ -1,0 +1,14 @@
+h1{
+    display: flex;
+}
+table{
+    padding:10px;
+}
+.heading{
+    padding: 10px;
+    background-color: green;
+    color: white;
+}
+.header{
+    padding: 20px;
+}
