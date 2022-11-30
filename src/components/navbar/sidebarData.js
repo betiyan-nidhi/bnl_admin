@@ -68,12 +68,7 @@ export const SidebarData = [
         icon: <IoIcons.IoIosPaper />,
         cName: 'sub-nav'
       },
-      {
-        title: 'UnEncumbered Deposits',
-        path: '/company/unencum',
-        icon: <IoIcons.IoIosPaper />,
-        cName: 'sub-nav'
-      },
+      
       {
         title: 'Bank Accounts',
         path: '/company/newa',
